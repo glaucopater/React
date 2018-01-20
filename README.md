@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 React-Sorrt
 ===
 
-Add new values, they will be sorted a saved in your browser local storage without cookies
+Add new values, they will be sorted and saved in your browser local storage without cookies
