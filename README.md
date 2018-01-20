@@ -1,0 +1,6 @@
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+React-Sorrt
+===
+
+Add new values, they will be sorted a saved in your browser local storage without cookies
